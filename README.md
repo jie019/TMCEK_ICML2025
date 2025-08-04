@@ -13,4 +13,4 @@ This repository contains the code implementation for our ICML 2025 paper **“[T
 # Acknowledgement
 
 # Contact Us
-If you have any detailed questions or suggestions, you can email us: [wangshijie4@sxu.edu.cn](wangshijie4@sxu.edu.cn)
+If you have any detailed questions or suggestions, you can email us: [wangshijie4@sxu.edu.cn](mailto:wangshijie4@sxu.edu.cn)
