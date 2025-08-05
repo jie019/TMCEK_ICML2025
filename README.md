@@ -13,10 +13,15 @@ Trusted multi-view classification (TMVC) based on the Dempster-Shafer theory has
 Moreover, the reliance on first-order statistical magnitudes of belief masses often inadequately capture the intrinsic uncertainty within the evidence. 
 To address these limitations, we propose a novel framework termed Trusted Multi-view Classification Constrained with Expert Knowledge (TMCEK). TMCEK integrates expert knowledge to enhance feature-level interpretability and introduces a distribution-aware subjective opinion mechanism to derive more reliable and realistic confidence estimates. The theoretical superiority of the proposed uncertainty measure over conventional approaches is rigorously established. Extensive experiments conducted on three multi-view datasets for sleep stage classification demonstrate that TMCEK achieves state-of-the-art performance while offering interpretability at both the feature and decision levels. These results position TMCEK as a robust and interpretable solution for MVC in safety-critical domains.
 
+# Method
+<div align="center">
+  <img src="path/to/your/image.png" alt="Overview of TMCEK" width="600px" />
+</div>
+
 # Citation
 
 
 # Acknowledgement
 
-# Contact Us
+# Contact
 If you have any detailed questions or suggestions, you can email us: [wshijie0@163.com](mailto:wshijie0@163.com)
