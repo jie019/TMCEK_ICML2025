@@ -12,7 +12,7 @@
   </a>
 </p>
 
-# Abstract
+# 📄Abstract
 
 Trusted multi-view classification (TMVC) based on the Dempster-Shafer theory has gained significant recognition for its reliability in safety-critical applications. However, existing methods predominantly focus on providing confidence levels for decision outcomes without explaining the reasoning behind these decisions.
 Moreover, the reliance on first-order statistical magnitudes of belief masses often inadequately capture the intrinsic uncertainty within the evidence. 
@@ -23,15 +23,15 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
   <img src="model.png" />
 </div>
 
-# Data
+# 📝Data
 The datasets utilized in our work are:
-- **Sleep Stage** Sleep-EDF20, Sleep-EDF78, SleepHeart Health Study (SHHS)
-- **Multi-view Classification** HandWritten (HW), Scene15, CUB, PIE
+- **Sleep Stage:** Sleep-EDF20, Sleep-EDF78, SleepHeart Health Study (SHHS)
+- **Multi-view Classification:** HandWritten (HW), Scene15, CUB, PIE
 
-# Citation
+# 📑Citation
 
 
-# Acknowledgement
+# 🙏Acknowledgement
 
-# Contact
+# 📬Contact
 If you have any detailed questions or suggestions, you can email us: [wshijie0@163.com](mailto:wshijie0@163.com)
