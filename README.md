@@ -23,6 +23,11 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
   <img src="model.png" />
 </div>
 
+# Data
+The datasets utilized in our work are:
+- **Sleep Stage** Sleep-EDF20, Sleep-EDF78, SleepHeart Health Study (SHHS)
+- **Multi-view Classification** HandWritten (HW), Scene15, CUB, PIE
+
 # Citation
 
 
