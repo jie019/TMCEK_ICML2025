@@ -15,7 +15,7 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
 
 # Method
 <div align="center">
-  <img src="model.png" alt="Overview of TMCEK" width="600px" />
+  <img src="model.png" />
 </div>
 
 # Citation
