@@ -8,7 +8,7 @@
 </div>
 <p align="center">
   <a href="https://openreview.net/pdf?id=U64wEbM7NB">
-    <img src="https://img.shields.io/badge/OpenReview" alt="OpenReview">
+    <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
   </a>
 </p>
 
