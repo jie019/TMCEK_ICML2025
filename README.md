@@ -25,6 +25,18 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
 
 ## Experiment 1: Sleep Stage Classification
 ### Directory Structure
+```bash
+Sleep stage classification/
+├── data/
+│   └── Sleep-EDF 20/
+│       └── SC4001E0.npz
+├── E1_model_test.py
+├── E1_model_training.py
+├── E2_lstm_data_prep.py
+├── E2_lstm_test.py
+├── E2_lstm_training.py
+└── loss_function.py
+```
 
 ### Data
 
