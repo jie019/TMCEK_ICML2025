@@ -49,7 +49,7 @@ Multi-view Classification/
 ```
 
 **Data**
-We used three public datasets in this experiment:
+We used four public datasets in this experiment:
 - [HandWritten (HW)](https://archive.ics.uci.edu/dataset/72/multiple+features)
 - [Scene15](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177/1)
 - [CUB](https://www.vision.caltech.edu/visipedia/CUB-200.html)
