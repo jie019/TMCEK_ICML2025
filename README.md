@@ -24,7 +24,7 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
 </div>
 
 ## 🛏️Experiment 1: Sleep Stage Classification
-In this experiment, we investigate the effectiveness of TMCEK on sleep stage classification using physiological signals.
+In this experiment, we investigate the effectiveness of TMCEK on sleep stage classification using EEG signals.
 ### Directory Structure
 The experiment directory is organized as follows:
 ```bash
