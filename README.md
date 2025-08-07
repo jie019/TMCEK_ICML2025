@@ -41,7 +41,7 @@ We used three public datasets in this experiment:
 ```bash
 Multi-view Classification/
 ├── data/
-│   └── 
+│   └── PIE_face_10.mat
 ├── dataset.py
 ├── loss_function.py
 ├── main.py
