@@ -285,7 +285,7 @@ for i in range(int(n_iter)):
     data, label = data.to(device), label.to(device)
     tf = np.array(tf)
     tf = torch.from_numpy(tf).type('torch.FloatTensor').to(device)
-    outputs, evidences = net(data[:, 0, :].unsqueeze(1), tf)
+    _, outputs = net(data[:, 0, :].unsqueeze(1), tf)
     if i == 0:
         OUT = outputs.cpu().detach().numpy()
     else:
@@ -304,7 +304,7 @@ for i in range(int(n_iter)):
     data, label = data.to(device), label.to(device)
     tf = np.array(tf)
     tf = torch.from_numpy(tf).type('torch.FloatTensor').to(device)
-    outputs, evidences = net(data[:, 0, :].unsqueeze(1),tf)
+    _, outputs = net(data[:, 0, :].unsqueeze(1),tf)
     cm += cm__(label.cpu().numpy(), torch.argmax(outputs, 1).cpu().numpy())
     if i == 0:
         OUT = outputs.cpu().detach().numpy()

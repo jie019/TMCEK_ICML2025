@@ -271,7 +271,7 @@ for i,(x_t, label, tf) in enumerate(tqdm(data_loader['test'])):
     tf = torch.from_numpy(tf).type('torch.FloatTensor').to(device)
     torch.set_grad_enabled(True)
     net.eval()
-    outputs, gabor_outputs = net(x_t[:, 0, :].unsqueeze(1), tf, True)
+    _,outputs = net(x_t[:, 0, :].unsqueeze(1), tf)
 
     pred = outputs
     pred_y = torch.max(pred, dim=1)[1]
