@@ -24,7 +24,9 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
 </div>
 
 ## 🛏️Experiment 1: Sleep Stage Classification
+In this experiment, we investigate the effectiveness of TMCEK on sleep stage classification using physiological signals.
 ### Directory Structure
+The experiment directory is organized as follows:
 ```bash
 Sleep stage classification/
 ├── data/
@@ -46,10 +48,37 @@ We used three public datasets in this experiment:
 - [Sleep Heart Health Study (SHHS)](https://sleepdata.org/datasets/shhs)
   
 ### Experiment Workflow
+Below we split the workflow into two phases: **Single-Epoch Network (E1)** which processes each epoch independently, and **Multi-Epoch Network (E2)** which leverages sequential epoch information for enhanced modeling.
+
+#### Training
+1. **Train E1 (Single-Epoch Network)**
+```bash
+python E1_model_training.py 
+```
+2. **Preprocess data for E2 (Multi-Epoch Network)**  
+```bash
+ python E2_lstm_data_prep.py
+```
+3. **Train E2 (Multi-Epoch Network)**
+```bash
+python E2_lstm_training.py 
+```
+
+#### Inference
+Once training is complete, evaluate each network on datasets.
+1. **Evaluate E1 (Single-Epoch Network)**
+```bash
+python E1_model_test.py 
+```
+2. **Evaluate E2 (Multi-Epoch Network)**
+```bash
+python E2_lstm_test.py 
+```
 
 ## 🎞️Experiment 2: Multi-view Classification
-
+In this experiment, we evaluate TMCEK across standard multi-view benchmarks.
 ### Directory Structure
+The experiment directory is organized as follows:
 ```bash
 Multi-view Classification/
 ├── data/
@@ -67,6 +96,11 @@ We used four public datasets in this experiment:
 - [CUB](https://www.vision.caltech.edu/visipedia/CUB-200.html)
 - [PIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Home.html)
 
+### Experiment Workflow
+The training process can be completed using a single script:
+```bash
+python main.py
+```
 ## 📑Citation
 
 
