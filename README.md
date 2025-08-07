@@ -23,7 +23,7 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
   <img src="model.png" />
 </div>
 
-## Experiment 1: Sleep Stage Classification
+## 🛏️Experiment 1: Sleep Stage Classification
 ### Directory Structure
 ```bash
 Sleep stage classification/
@@ -47,7 +47,7 @@ We used three public datasets in this experiment:
   
 ### Experiment Workflow
 
-## Experiment 2: Multi-view Classification
+## 🎞️Experiment 2: Multi-view Classification
 
 ### Directory Structure
 ```bash
@@ -67,7 +67,7 @@ We used four public datasets in this experiment:
 - [CUB](https://www.vision.caltech.edu/visipedia/CUB-200.html)
 - [PIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Home.html)
 
-## 📑Citatio
+## 📑Citation
 
 
 ## 🙏Acknowledgement
