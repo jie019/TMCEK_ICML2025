@@ -24,29 +24,37 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
 </div>
 
 # Experiment 1: Sleep Stage Classification
-## Directory Structure
+**Directory Structure**
 
-## Data
+**Data**
 
 We used three public datasets in this experiment:
 - [Sleep-EDF20](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [Sleep-EDF78](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [Sleep Heart Health Study (SHHS)](https://sleepdata.org/datasets/shhs)
   
-## Experiment Workflow
+**Experiment Workflow**
 
 # Experiment 2: Multi-view Classification
 
 **Directory Structure**
+```bash
+Multi-view Classification/
+├── data/
+│   └── 
+├── dataset.py
+├── loss_function.py
+├── main.py
+└── model.py  
 
 **Data**
 We used three public datasets in this experiment:
-- HandWritten (HW)
-- Scene15
-- CUB
-- PIE
+- [HandWritten (HW)](https://archive.ics.uci.edu/dataset/72/multiple+features)
+- [Scene15](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177/1)
+- [CUB](https://www.vision.caltech.edu/visipedia/CUB-200.html)
+- [PIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Home.html)
 
-# 📑Citation
+# 📑Citatio
 
 
 # 🙏Acknowledgement
