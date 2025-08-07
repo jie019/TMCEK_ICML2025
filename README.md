@@ -24,16 +24,16 @@ To address these limitations, we propose a novel framework termed Trusted Multi-
 </div>
 
 # Experiment 1: Sleep Stage Classification
-**Directory Structure**
+## Directory Structure
 
-**Data**
+## Data
 
 We used three public datasets in this experiment:
 - [Sleep-EDF20](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [Sleep-EDF78](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [Sleep Heart Health Study (SHHS)](https://sleepdata.org/datasets/shhs)
   
-**Experiment Workflow**
+## Experiment Workflow
 
 # Experiment 2: Multi-view Classification
 
