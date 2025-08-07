@@ -38,7 +38,7 @@ We used three public datasets in this experiment:
 # Experiment 2: Multi-view Classification
 
 **Directory Structure**
-```bash
+bash
 Multi-view Classification/
 ├── data/
 │   └── 
