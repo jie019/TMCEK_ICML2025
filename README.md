@@ -15,6 +15,7 @@
     <img src="https://img.shields.io/badge/ICML%202025-Poster-blue" alt="ICML 2025 Poster">
   </a>
 </p>
+</div>
 
 
 
