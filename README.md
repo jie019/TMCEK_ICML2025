@@ -7,7 +7,7 @@
 <sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
 
 
- <a href='https://openreview.net/pdf?id=U64wEbM7NB'><img src='https://img.shields.io/badge/OpenReview-gray'></a> &nbsp;
+<a href='https://openreview.net/pdf?id=U64wEbM7NB'><img src='https://img.shields.io/badge/OpenReview-gray'></a> &nbsp;
 <a href='https://icml.cc/virtual/2025/poster/45140'><img src='https://img.shields.io/badge/ICML%202025-Poster-blue'></a>&nbsp;
 
 </div>
