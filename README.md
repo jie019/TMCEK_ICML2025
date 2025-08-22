@@ -102,7 +102,30 @@ The training process can be completed using a single script:
 python main.py
 ```
 ## 📑Citation
+If you find this repository useful, please cite our paper:
+```
+@inproceedings{
+liang2025trusted,
+title={Trusted Multi-View Classification with Expert Knowledge Constraints},
+author={Xinyan Liang, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li},
+booktitle={International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/pdf?id=U64wEbM7NB}
+}
+```
 
+## 🔬 Related Work
+We list below the works most relevant to this paper, including but not limited to the following (roughly ordered from most recent to earliest):
+- Trusted Multi-View Classification via Evolutionary Multi-View Fusion 
+- Enhancing Multi-View Classification Reliability with Adaptive Rejection
+- Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild
+- Trusted Multi-view Learning with Label Noise
+- Trusted Multi-view Learning under Noisy Supervision
+- Reliable Conflictive Multi-View Learning
+- Safe multi-view deep classification
+- Trusted Multi-View Deep Learning with Opinion Aggregation
+- Trusted Multi-View Classification with Dynamic Evidential Fusion
+- Trusted Multi-View Classification
 
 <!-- ## 🙏 Acknowledgement -->
 
