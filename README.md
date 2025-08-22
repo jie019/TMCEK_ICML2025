@@ -1,12 +1,16 @@
 
 # [Trusted Multi-View Classification with Expert Knowledge Constraints](https://openreview.net/pdf?id=U64wEbM7NB)
 
-<div align="center">
 
-  **[_Xinyan Liang_<sup>1</sup>](https://xinyanliang.github.io/), [_Shijie Wang_<sup>1</sup>](https://jie019.github.io/), [_Yuhua Qian_<sup>1</sup>](http://dig.sxu.edu.cn/qyh/), _Qian Guo_<sup>2</sup>, _Liang Du_<sup>1</sup>, _Bingbing Jiang_<sup>3</sup>, _Tingjin Luo_<sup>4</sup>, _Feijiang Li_<sup>1</sup>**
   
+<div align="center">
+  <strong><a href="https://xinyanliang.github.io/">Xinyan Liang<sup>1</sup></a></strong>,
+  <strong><a href="https://jie019.github.io/">Shijie Wang<sup>1</sup></a></strong>,
+  <strong><a href="http://dig.sxu.edu.cn/qyh/">Yuhua Qian<sup>1</sup></a></strong>,
+  Qian Guo<sup>2</sup>, Liang Du<sup>1</sup>, Bingbing Jiang<sup>3</sup>, Tingjin Luo<sup>4</sup>, Feijiang Li<sup>1</sup>
+  <br>
   <sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
-  
+</div>
 
 
 <p align="center">
