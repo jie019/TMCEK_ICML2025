@@ -9,8 +9,8 @@
   <a href="https://openreview.net/pdf?id=U64wEbM7NB">
     <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
   </a>
+  &nbsp;&nbsp;
   <a href="https://icml.cc/virtual/2025/poster/45140">
-    <img src="https://img.shields.io/badge/ICML 2025-Poster-blue" alt="ICML 2025 Poster">
     <img src="https://img.shields.io/badge/ICML%202025-Poster-blue" alt="ICML 2025 Poster">
   </a>
 </p>
