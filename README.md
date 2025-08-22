@@ -7,14 +7,15 @@
 <sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
 
 <p align="center">
-  <a href="https://openreview.net/pdf?id=U64wEbM7NB">
+  <a href="https://openreview.net/pdf?id=U64wEbM7NB" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
   </a>
   &nbsp;&nbsp;
-  <a href="https://icml.cc/virtual/2025/poster/45140">
+  <a href="https://icml.cc/virtual/2025/poster/45140" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/ICML%202025-Poster-blue" alt="ICML 2025 Poster">
   </a>
 </p>
+
 
 
 ## Abstract
