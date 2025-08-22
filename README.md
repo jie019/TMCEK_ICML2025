@@ -6,11 +6,16 @@
 
 <sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
 
-<h5 align=center>
-  [[ICML 2025](https://img.shields.io/badge/ICML_2025-Poster-blue)](https://icml.cc/virtual/2025/poster/45140)
+<p align="center">
+  <a href="https://openreview.net/pdf?id=U64wEbM7NB" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
+  </a>
   &nbsp;&nbsp;
-  [[OpenReview](https://img.shields.io/badge/OpenReview-gray)](https://openreview.net/pdf?id=U64wEbM7NB)
-</h5>
+  <a href="https://icml.cc/virtual/2025/poster/45140" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ICML%202025-Poster-blue" alt="ICML 2025 Poster">
+  </a>
+</p>
+
 
 
 
