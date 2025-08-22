@@ -10,14 +10,12 @@
   <a href="https://openreview.net/pdf?id=U64wEbM7NB">
     <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
   </a>
-
 &nbsp;&nbsp;
-</div>
   <a href="https://icml.cc/virtual/2025/poster/45140">
     <img src="https://img.shields.io/badge/ICML_2025-Poster-blue" alt="ICML_2025 Poster">
   </a>
 </p>
-</div>
+
 ## Abstract
 
 Trusted multi-view classification (TMVC) based on the Dempster-Shafer theory has gained significant recognition for its reliability in safety-critical applications. However, existing methods predominantly focus on providing confidence levels for decision outcomes without explaining the reasoning behind these decisions.
