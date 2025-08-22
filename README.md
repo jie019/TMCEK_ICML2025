@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://openreview.net/pdf?id=U64wEbM7NB">
     <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
-&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://icml.cc/virtual/2025/poster/45140">
     <img src="https://img.shields.io/badge/ICML_2025-Poster-blue" alt="ICML_2025 Poster">
   </a>
