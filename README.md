@@ -16,45 +16,6 @@
 </p>
 </div>
 
-<!-- HTML -->
-<div class="badges" align="center">
-  <a class="badge" href="https://openreview.net/pdf?id=U64wEbM7NB" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
-  </a>
-  <a class="badge" href="https://icml.cc/virtual/2025/poster/45140" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/ICML%202025-Poster-blue" alt="ICML 2025 Poster">
-  </a>
-</div>
-
-<!-- CSS -->
-<style>
-/* 容器（居中徽章组）*/
-.badges {
-  text-align: center; /* 如果你使用 <div align="center"> 可不必，但保留更可靠 */
-  line-height: 0;     /* 防止行高引入意外空白 */
-}
-
-/* 链接/徽章的样式：去掉下划线并让 a 为 inline-block 以便设置间距 */
-.badges .badge {
-  display: inline-block;
-  vertical-align: middle;  /* 垂直对齐（当与文本并排时） */
-  text-decoration: none;   /* 关键：去掉链接下划线 */
-  margin-left: 8px;        /* 徽章间距（第一个徽章左侧也会有，见下方调整） */
-}
-
-/* 如果不想第一个有 margin，可用下面这行（可选） */
-.badges .badge:first-child { margin-left: 0; }
-
-/* 图片作为块元素，确保没有下划线穿过图片旁的空白 */
-.badges .badge img {
-  display: block;  /* 关键：把 img 变成块，避免 text-decoration 在基线上出现短线 */
-  border: 0;       /* 旧浏览器边框保护（现代浏览器通常不用） */
-  height: 24px;    /* 按需调整尺寸 */
-  width: auto;
-}
-</style>
-
-
 
 
 
