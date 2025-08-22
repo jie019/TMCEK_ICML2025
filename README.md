@@ -117,16 +117,16 @@ url={https://openreview.net/pdf?id=U64wEbM7NB}
 ## 🔬 Related Work
 We list below the works most relevant to this paper, including but not limited to the following (roughly ordered from most recent to earliest):
 - Navigating Conflicting Views: Harnessing Trust for Learning [[paper]](https://arxiv.org/abs/2406.00958)
-- Trusted Multi-View Classification via Evolutionary Multi-View Fusion 
-- Enhancing Multi-View Classification Reliability with Adaptive Rejection
-- Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild
-- Trusted Multi-view Learning with Label Noise
-- Trusted Multi-view Learning under Noisy Supervision
-- Reliable Conflictive Multi-View Learning
-- Safe multi-view deep classification
-- Trusted Multi-View Deep Learning with Opinion Aggregation
-- Trusted Multi-View Classification with Dynamic Evidential Fusion
-- Trusted Multi-View Classification
+- Trusted Multi-View Classification via Evolutionary Multi-View Fusion [[paper]](https://openreview.net/pdf?id=M3kBtqpys5)
+- Enhancing Multi-View Classification Reliability with Adaptive Rejection [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26066)
+- Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Enhancing_Testing-Time_Robustness_for_Trusted_Multi-View_Classification_in_the_Wild_CVPR_2025_paper.pdf)
+- Trusted Multi-view Learning with Label Noise [[paper]](https://www.ijcai.org/proceedings/2024/0582.pdf) 
+- Trusted Multi-view Learning under Noisy Supervision [[paper]](https://arxiv.org/abs/2404.11944)
+- Reliable Conflictive Multi-View Learning [[paper]](https://arxiv.org/abs/2402.16897)
+- Safe multi-view deep classification [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26066)
+- Trusted Multi-View Deep Learning with Opinion Aggregation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20724)
+- Trusted Multi-View Classification with Dynamic Evidential Fusion [[paper]](https://arxiv.org/abs/2204.11423)
+- Trusted Multi-View Classification [[paper]](https://arxiv.org/abs/2102.02051)
 
 <!-- ## 🙏 Acknowledgement -->
 
