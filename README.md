@@ -116,6 +116,7 @@ url={https://openreview.net/pdf?id=U64wEbM7NB}
 
 ## 🔬 Related Work
 We list below the works most relevant to this paper, including but not limited to the following (roughly ordered from most recent to earliest):
+- Navigating Conflicting Views: Harnessing Trust for Learning
 - Trusted Multi-View Classification via Evolutionary Multi-View Fusion 
 - Enhancing Multi-View Classification Reliability with Adaptive Rejection
 - Enhancing Testing-Time Robustness for Trusted Multi-View Classification in the Wild
