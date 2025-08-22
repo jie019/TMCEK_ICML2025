@@ -28,7 +28,7 @@
 </p>
 
 <style>
-.badges { text-align: center; line-height: 0; }      /* 防止行高引入额外空白 */
+.badges { text-align: center; line-height: 0; }    
 .badges a { display: inline-block; text-decoration: none; margin: 0 6px; }
 .badges a img { display: block; border: 0; height: 24px; width: auto; }
 </style>
