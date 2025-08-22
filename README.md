@@ -7,9 +7,9 @@
 <sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
 
 <h5 align=center>
-  [![ICML 2025](https://img.shields.io/badge/ICML_2025-Poster-blue)](https://icml.cc/virtual/2025/poster/45140)
+  [[ICML 2025](https://img.shields.io/badge/ICML_2025-Poster-blue)](https://icml.cc/virtual/2025/poster/45140)
   &nbsp;&nbsp;
-  [![OpenReview](https://img.shields.io/badge/OpenReview-gray)](https://openreview.net/pdf?id=U64wEbM7NB)
+  [[OpenReview](https://img.shields.io/badge/OpenReview-gray)](https://openreview.net/pdf?id=U64wEbM7NB)
 </h5>
 
 
