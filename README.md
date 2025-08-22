@@ -1,4 +1,6 @@
-# [Trusted Multi-View Classification with Expert Knowledge Constraints](https://openreview.net/pdf?id=U64wEbM7NB)
+<h2 align="center"> <a href="https://openreview.net/pdf?id=U64wEbM7NB">Trusted Multi-View Classification with Expert Knowledge Constraints</a></h2>
+<div align="center">
+
 <div align="center">
 
 **[_Xinyan Liang_<sup>1</sup>](https://xinyanliang.github.io/), [_Shijie Wang_<sup>1</sup>](https://jie019.github.io/), [_Yuhua Qian_<sup>1</sup>](http://dig.sxu.edu.cn/qyh/), _Qian Guo_<sup>2</sup>, _Liang Du_<sup>1</sup>, _Bingbing Jiang_<sup>3</sup>, _Tingjin Luo_<sup>4</sup>, _Feijiang Li_<sup>1</sup>**
