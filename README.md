@@ -10,7 +10,6 @@
   <a href="https://openreview.net/pdf?id=U64wEbM7NB">
     <img src="https://img.shields.io/badge/OpenReview-gray" alt="OpenReview">
   </a>
-  &nbsp;&nbsp;
 </p>
 </div>
 
