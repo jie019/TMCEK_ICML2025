@@ -108,7 +108,7 @@ If you find this repository useful, please cite our paper:
 liang2025trusted,
 title={Trusted Multi-View Classification with Expert Knowledge Constraints},
 author={Xinyan Liang, Shijie Wang, Yuhua Qian, Qian Guo, Liang Du, Bingbing Jiang, Tingjin Luo, Feijiang Li},
-booktitle={International Conference on Learning Representations},
+booktitle={International Conference on Machine Learning},
 year={2025},
 url={https://openreview.net/pdf?id=U64wEbM7NB}
 }
