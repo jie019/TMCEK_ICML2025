@@ -8,7 +8,7 @@
 
 
 <a href='https://openreview.net/pdf?id=U64wEbM7NB'><img src='https://img.shields.io/badge/OpenReview-gray'></a> &nbsp;
-<a href='https://icml.cc/virtual/2025/poster/45140'><img src='https://img.shields.io/badge/ICML%202025-Poster-blue'></a>&nbsp;
+<a href='https://icml.cc/virtual/2025/poster/45140'><img src='https://img.shields.io/badge/ICML%202025-Spotlight-blue'></a>&nbsp;
 
 </div>
 
